@@ -74,3 +74,21 @@ How to avoid mechanism problems?
 	- OS-level access comtrol
 	- Network firewalls
 	- Cryptography, cryptographic protocols.
+
+
+
+
+## 信息系统安全
+
+
+
+
+
+## Freebuf
+- [Linux应急故事之四两拨千斤：黑客一个小小玩法，如何看瞎双眼](https://mp.weixin.qq.com/s/IG4wm-oyJ_WaVGxZpmpy_w)
+- [缓冲区溢出漏洞可导致内核崩溃，苹果多款操作系统均受影响](https://mp.weixin.qq.com/s/s94i_2fOWlzmHlqowGz1CA)
+- [保护SSH端口安全性的多种技巧介绍](https://mp.weixin.qq.com/s/h9Lcz-kK5-QQ2mtmppiSuQ)
+- [网络安全等级保护之关键活动建设](https://mp.weixin.qq.com/s/9sEGnnwO_H8GEsvf3mbq0g)
+- [9012年，你会选哪些安全测试工具？](https://mp.weixin.qq.com/s/_4eHP8mS6sjp5hbHr_sCxA)
+- [看我如何发现Pinterest任意账号劫持漏洞](https://mp.weixin.qq.com/s/u1z6Lrg-aTu22Gt2T6M2nA)
+- [攻防系统之攻防环境介绍&搭建](https://mp.weixin.qq.com/s/_Rb-YlTlNpYHDVtChDTQ0Q)
