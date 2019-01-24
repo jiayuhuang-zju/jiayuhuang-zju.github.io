@@ -1,4 +1,3 @@
-# 2019 1 24
 ```
 MIT6.858 Lec1&Lec2
 信息系统安全
@@ -79,10 +78,76 @@ How to avoid mechanism problems?
 
 
 ## 信息系统安全
+### Malicious Software
+Definition: a program that is inserted into a system, usually covertly, with the intent of compromising the confidentiality, integrity, or availability of the victim’s data, applications, or operating system or otherwise annoying or disrupting the victim.
 
+- Types of malicious software
+- Advanced persistent threat
+- Propagation
+	- Infected comtent
+		- viruses
+	- Vulnerability
+		- worms
+	- Social engineering
+		- Spam
+		- e-mail
+		- Trojans
+	- Payload
+		- System corruption
+		- Attack agent
+			- Zombie
+			- Bots
+		- Information theft
+			- Keyloggers
+			- Phishing
+			- Spyware
+		- Stealthing
+	- Countermeasures
 
+### DOS Attacks
+- Denial-of-service attacks
+	- The nature of denial-of-service attacks.
+	- Classic denial-of-service
+	- Source address spooling
+	- SYN spoofing
+- Flooding attacks
+	- ICMP flood
+	- UDP flood
+	- TCP SYN flood
+- Defense against denial-of-service attacks
+- Responding to a denial-of-service attack
+- Distributed denial-of-service
+- Application-based bandwidth attacks
+	- SIP flood
+	- HTTP-based attacks
+- Refletor and amplifer attacks
+	- Reflection attacks
+	- Amplification attacks
+	- DNS amplification attacks.
 
-
+### Firewall
+- The need for firewall
+- Firewall characteristics and access policy.
+- Types of firewalls
+	- Packet filtering firewall.
+	- Stateful inspection firewalls
+	- Application-level gateway
+	- Circuit-level gateway
+- Firewall basing
+	- Bastion host
+	- Host-based firewalls
+	- Personal firewall
+- Firewall location and canfigurations
+	- DMZ networks
+	- Virtual private networks
+	- Distributed firewalls
+	- firewall locations and topologics
+- Intrusion prevention systems
+	- Host-based IPS
+	- Network-based IPS
+	- Distributed or hybrid IPS
+	- snort inline
+- Unified Threat Management appliance
 
 ## Freebuf
 - [Linux应急故事之四两拨千斤：黑客一个小小玩法，如何看瞎双眼](https://mp.weixin.qq.com/s/IG4wm-oyJ_WaVGxZpmpy_w)
