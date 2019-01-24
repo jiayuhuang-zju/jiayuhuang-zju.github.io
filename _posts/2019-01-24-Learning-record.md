@@ -61,8 +61,8 @@ Any memory errors can translate into a vulnerability
 	    ```
 	- 内存越界定位方法：查看越界的那段内存，之后查看内存实际使用情况，看看是否有异常！大多是数组越界或者字符串的拷贝问题。
 - [A one-byte stray write can lead to compromise.](https://www.openwall.com/lists/oss-security/2014/08/26/2)
-- [CTF中off-by-one](https://ctf-wiki.github.io/ctf-wiki/pwn/linux/glibc-heap/off_by_one/)
-- [CTF|PWN堆溢出总结](https://www.freebuf.com/articles/system/171261.html)
+	- [CTF中off-by-one](https://ctf-wiki.github.io/ctf-wiki/pwn/linux/glibc-heap/off_by_one/)
+- [CTF-PWN堆溢出总结](https://www.freebuf.com/articles/system/171261.html)
 - [CTF-Wiki](https://ctf-wiki.github.io/ctf-wiki/)
 
 
